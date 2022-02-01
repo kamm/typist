@@ -217,7 +217,7 @@ G:TOP_14
 B:
 D:with all their faults well if the wages are the depth of his safest take out 
  :of this world with us of his property till he pay you for slipped
-G:MENU_2_TOP
+G:TOP_15
 
 *:TOP_15
 I: Left hand
